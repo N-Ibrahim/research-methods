@@ -1,8 +1,8 @@
 a = 5
 b = 6
 c = a + b
-print("Result is: ", c)
-
+d =  a + b + c
+print("Result is: ", d)
 print("Complete")
 
 
