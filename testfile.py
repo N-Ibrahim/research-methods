@@ -1,9 +1,11 @@
 a = 5
-b = 6
+b = int(input("Enter a number: "))
 c = a + b
-d =  a + b + c
-print("Result is: ", d)
-print("Complete")
+# I don't need this anymore
 
+print("Result is: ", c)
+print("Alright, Check now.")
 
-# This is my local file
+# This is my non-local copy of the code
+
+# I think I get it now
