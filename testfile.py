@@ -1,9 +1,9 @@
 a = 5
-b = 6
+b = int(input("Enter a number: "))
 c = a + b
 d =  a + b + c
-print("Result is: ", d)
-print("Complete")
 
+print("Result is: ", c)
+print("Complete. Yay!!!")
 
-# This is my local file
+# This is my non-local copy of the code
